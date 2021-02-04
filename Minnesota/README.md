@@ -4,8 +4,8 @@
 
 The Minnesota DNR has two programs to encourage visitors to state parks: 
 
-# the Hiking Club; and 
-# the Passport Club.
+- the Hiking Club; and 
+- the Passport Club.
 
 Additionally, the North Country Trail Association has an annual Hike 100 Challenge.
 

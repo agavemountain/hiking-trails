@@ -32,3 +32,8 @@ Hike [100 miles on the North Country Trail](https://northcountrytrail.org/hike-1
 ## National Parks
 
 + **[Voyageurs National Park](Voyageurs-GPS-waypoints-tracks-for-web-3-29-2019.gpx)**: The fur traders began journeying the interconnected waterways of Voyageurs National Park over 250 years ago. GPS waypoints for campsites, houseboat sites, and Day Use sites within Voyageurs National Park. Source: [Voyageurs National Park](https://www.nps.gov/voya/planyourvisit/gps-waypoints.htm).
+
+## MN DNR GPS
+
++ **[Minnesota Department of Natural Resources (MNDNR) Walk-In Access (WIA) Sites](mnwiapoi2019.gpx)**: This file contains Walk-In Access
+Sites mostly western Minnesota.

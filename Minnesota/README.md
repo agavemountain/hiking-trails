@@ -37,3 +37,11 @@ Hike [100 miles on the North Country Trail](https://northcountrytrail.org/hike-1
 
 + **[Minnesota Department of Natural Resources (MNDNR) Walk-In Access (WIA) Sites](mnwiapoi2019.gpx)**: This file contains Walk-In Access
 Sites mostly western Minnesota.
+
+# Maps
+
+## Voyageurs National Park
+
++ **[Voyageurs Campsite Map](VOYA_web_VNP_Campsites_Map.pdf)**:
++ **[Voyageurs National Park Day-Use Sites](VOYA_DayUseMap_withAmenties2016_LowRes.pdf)**: These sites can be used during the day only.
+
